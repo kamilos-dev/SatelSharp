@@ -9,7 +9,6 @@
 
   <PropertyGroup>
     <PackageIcon>favicon.png</PackageIcon>
-    <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
