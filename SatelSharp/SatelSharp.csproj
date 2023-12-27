@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Company>kamilos-dev</Company>
+    <Copyright>Copyright (C) kamilos-dev</Copyright>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../favicon.png" Pack="true" PackagePath="" Visible="false" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <Authors>$(Company)</Authors>
+    <Description>Library for conveniently getting information from Satel control panels equipped with ETHM-1 Plus or INT-RS Plus modules</Description>
+    <PackageTags>satel integra ethm ethm1 intrs plus alarm control panel integration protocol</PackageTags>
+    <PackageProjectUrl>https://github.com/kamilos-dev/satel-sharp</PackageProjectUrl>
+    <PackageReleaseNotes>https://github.com/kamilos-dev/satel-sharp/releases/tag/$(Version)</PackageReleaseNotes>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>

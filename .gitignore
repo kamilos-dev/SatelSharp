@@ -1,0 +1,35 @@
+/_ReSharper.*
+**/_ReSharper.*
+/_TeamCity.*
+/*.suo
+**/bin
+**/**/bin
+**/obj
+**/**/ClientBin
+**/**/Logs
+**/**/obj
+**/Logs
+**/*.csproj.user
+**/*.orig
+**/logs
+*.user
+SWS.MBO/Upload/**
+**/StyleCop.Cache
+**/**/StyleCop.Cache
+Cop.Cache,SWS.MBO.Tests/StyleCop.Cache
+.vs/
+KT_local_migrate.bat
+lpa_migrate.bat
+.idea
+
+#Ignore Nuke working directory
+.nuke/temp
+.nuke-working-directory
+
+.DS_Store
+
+#Ignore AsciiDoc temp files
+**/.asciidoctor/
+
+**/appsettings.Development.json
+**/.env.dev
