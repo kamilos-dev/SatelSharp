@@ -23,6 +23,6 @@
     <PackageProjectUrl>https://github.com/kamilos-dev/satel-sharp</PackageProjectUrl>
     <PackageReleaseNotes>https://github.com/kamilos-dev/satel-sharp/releases/tag/$(Version)</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageReadmeFile>../README.md</PackageReadmeFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 </Project>
