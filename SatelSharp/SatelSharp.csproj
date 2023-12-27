@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <None Include="../favicon.png" Pack="true" PackagePath="" Visible="false" />
+    <None Include="../README.md" Pack="true" PackagePath="\"/>
   </ItemGroup>
 
   <PropertyGroup>
