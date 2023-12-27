@@ -1,7 +1,14 @@
 # SatelSharp
 
+[![Build](https://img.shields.io/github/actions/workflow/status/kamilos-dev/satel-sharp/main.yml?branch=master)](https://github.com/kamilos-dev/satel-sharp/actions)
+[![codecov](https://codecov.io/gh/kamilos-dev/satel-sharp/graph/badge.svg?token=7XFTNBRRJL)](https://codecov.io/gh/kamilos-dev/satel-sharp)
+[![Version](https://img.shields.io/nuget/v/SatelSharp.svg)](https://nuget.org/packages/SatelSharp)
+
 SatelSharp is a library for conveniently getting information from Satel control panels equipped with ETHM-1 Plus or INT-RS Plus modules. It uses an integration protocol to do so.
 
+<p align="center">
+    <img src="favicon.png" alt="Icon" />
+</p>
 
 ## Requirements
 
@@ -52,9 +59,9 @@ Work is underway to add more functionality
 
 ## Usuage
 
-1. Install NuGet package
+1. Install NuGet package 📦
 ```
-dotnet install SatelSharp
+dotnet add package SatelSharp
 ```
 
 2. Create a `SatelClient` instance with your own device data:
