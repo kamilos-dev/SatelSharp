@@ -20,7 +20,7 @@
     <Authors>$(Company)</Authors>
     <Description>Library for conveniently getting information from Satel control panels equipped with ETHM-1 Plus or INT-RS Plus modules</Description>
     <PackageTags>satel integra ethm ethm1 intrs plus alarm control panel integration protocol</PackageTags>
-    <PackageProjectUrl>https://github.com/kamilos-dev/satel-sharp</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/kamilos-dev/SatelSharp</PackageProjectUrl>
     <PackageReleaseNotes>https://github.com/kamilos-dev/satel-sharp/releases/tag/$(Version)</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
