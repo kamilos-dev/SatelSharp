@@ -1,7 +1,7 @@
 # SatelSharp
 
 [![Build](https://img.shields.io/github/actions/workflow/status/kamilos-dev/satel-sharp/main.yml?branch=master)](https://github.com/kamilos-dev/satel-sharp/actions)
-[![codecov](https://codecov.io/gh/kamilos-dev/satel-sharp/graph/badge.svg?token=7XFTNBRRJL)](https://codecov.io/gh/kamilos-dev/satel-sharp)
+[![codecov](https://codecov.io/gh/kamilos-dev/SatelSharp/graph/badge.svg?token=7XFTNBRRJL)](https://codecov.io/gh/kamilos-dev/SatelSharp)
 [![Version](https://img.shields.io/nuget/v/SatelSharp.svg)](https://nuget.org/packages/SatelSharp)
 [![Downloads](https://img.shields.io/nuget/dt/SatelSharp.svg)](https://nuget.org/packages/SatelSharp)
 
